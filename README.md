@@ -1,5 +1,5 @@
 ﻿# A Village Scenario Drawing using OpenGL C++
-Project Contains Following Things
+Project has following contents:
 <ul>
   <li>Village Houses</li>
   <li>Trees</li>
